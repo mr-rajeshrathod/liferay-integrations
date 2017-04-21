@@ -1,0 +1,4 @@
+Bundle-Activator: com.cignex.coe.osgi.IgnoreBundleActivator
+Bundle-Name: ignore-bundle
+Bundle-SymbolicName: com.cignex.coe.osgi
+Bundle-Version: 1.0.0
